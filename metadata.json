@@ -1,0 +1,6 @@
+{
+  "name": "Dental Rehab",
+  "description": "Specialist dental care and oral & maxillofacial surgery by Dr. Muhammad Ahmad Gulzar in Sahiwal, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
